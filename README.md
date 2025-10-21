@@ -19,5 +19,5 @@ The repository includes firmware for **two microcontrollers (MCUs)** used in the
 
 ### 2. Arduino Nano (Traditional Firmware)
 - Functions as a **slave motor controller**.
-- Receives **motion control commands** from the robot’s computer **UART communication**.
+- Receives **motion control commands** from the robot’s computer via **UART communication**.
 - Sends **encoder feedback** back to the computer via **UART communication**.
