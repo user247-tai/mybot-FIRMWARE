@@ -5,7 +5,7 @@ This repository contains the firmware source code for the **MCU components** of 
 
 For more information and a demonstration of the MYBOT project, check out the video below:
 
-👉 [https://www.youtube.com/watch?v=H-uJPVZc3JQ](#) 
+👉 https://www.youtube.com/watch?v=H-uJPVZc3JQ
 
 ## Overview
 
